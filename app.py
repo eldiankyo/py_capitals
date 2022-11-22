@@ -1,3 +1,12 @@
+"""
+This was a project from a book called:
+Coding projects in Python.
+
+The book is for students and I used it to
+quickly pick up the basics of the Python language
+with my Javascript background. :)
+"""
+
 from tkinter import Tk, simpledialog, messagebox
 
 print('Countries and Capitals')

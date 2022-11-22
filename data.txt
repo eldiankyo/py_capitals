@@ -4,3 +4,6 @@ France/Paris
 Argentine/Buenos Aires
 Egypt/Cairo
 Hungary/Budapest
+Jamaica/Kingston
+Romania/Bucharest
+Iceland/Reykjavík
